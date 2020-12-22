@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\AllupPractice\\AllupPractice\\AllupPractice.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\AllupCRUD\\AllupPractice\\AllupPractice\\AllupPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\AllupPractice\\AllupPractice\\AllupPractice.csproj": {
+    "C:\\Users\\ACER\\Desktop\\AllupCRUD\\AllupPractice\\AllupPractice\\AllupPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\AllupPractice\\AllupPractice\\AllupPractice.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\AllupCRUD\\AllupPractice\\AllupPractice\\AllupPractice.csproj",
         "projectName": "AllupPractice",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\AllupPractice\\AllupPractice\\AllupPractice.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\AllupCRUD\\AllupPractice\\AllupPractice\\AllupPractice.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\AllupPractice\\AllupPractice\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\AllupCRUD\\AllupPractice\\AllupPractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

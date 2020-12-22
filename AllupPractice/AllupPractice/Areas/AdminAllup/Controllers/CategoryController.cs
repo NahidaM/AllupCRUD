@@ -173,12 +173,16 @@ namespace AllupPractice.Areas.AdminAllup.Controllers
         {
             GetMainCategory();
             if (id == null) return NotFound();
-            Category changedCtr = await _context.Categories.FindAsync(id);
-
+            Category updateCtr = await _context.Categories.FindAsync(id);
+            if (category.Photo == null)
+            {
+                ModelState.AddModelError("", "Please add image,if create main category");
+                return View();
+            }
             Category isExist = _context.Categories.Where(c => c.IsDeleted == false).FirstOrDefault(c => c.Name.ToLower() == category.Name.ToLower());
             if (category == null) return NotFound();
 
-            changedCtr.Name = category.Name;
+            updateCtr.Name = category.Name;
             await _context.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));

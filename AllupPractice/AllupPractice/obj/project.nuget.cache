@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JAuEUkwFNcAV76kMt/6Cqq3WIvjS8T2gG26rb2so5wRSNDnNXDyTkcrXNsmUY4+vvcPWeVWjaKWbQQ/9nzVbug==",
+  "dgSpecHash": "Gi9fVoRYgaMFQudIc1m7XcHELFerSv/wIwspNvK8/UuMO8hVWyMSxFnnHU7FQJM6F61X/L/KuNru+Bx29yasFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\Desktop\\Tasks\\Back-end\\AllupPractice\\AllupPractice\\AllupPractice.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\AllupCRUD\\AllupPractice\\AllupPractice\\AllupPractice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
